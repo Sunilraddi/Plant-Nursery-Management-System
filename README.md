@@ -20,4 +20,4 @@ Here, "root" is the username and it may differ. Password can be "root" or user-s
 
 If the prompt shows "The system cannot find the file specified.", check out if there is a space character in your filename. If thers is a space, rename that file or change the location of the SQL file. Or else look out if you are running the command prompt with admin privelege or not. If not, run command prompt with admin privelege.
 
-You can refer : https://www.youtube.com/watch?v=sJ64ZiB6PUU
+You can refer [this](https://www.youtube.com/watch?v=sJ64ZiB6PUU)
