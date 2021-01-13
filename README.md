@@ -1,8 +1,8 @@
-#Before running the application :
+# Before running the application :
 Resolve the imports by adding the jar files from dist-> lib folder.
 
 
-#For importing the database :
+# For importing the database :
 The database is created under MySQL 8.0. Simply extract the database by using MySQl Workbench. Name the new schema as "plantshop".
 
 OR
