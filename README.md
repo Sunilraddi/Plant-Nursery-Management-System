@@ -8,9 +8,13 @@ The database is created under MySQL 8.0. Simply extract the database by using My
 OR
 
 a) Create a blank database named as "plantshop" in MySQL. 
-b) Use that database; 
+
+b) Use that database.
+
 c) Open Command prompt. 
+
 d) Open File explorer and copy the address of the bin folder of your MySQL file. 
+
 e) Go to Command Prompt. Write cd and then paste the copied path.
 
 eg. cd C:\Program Files\MySQL\MySQL Server 8.0\bin (The path or the version of the MySql may differ.)
