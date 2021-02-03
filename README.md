@@ -3,7 +3,7 @@ Resolve the imports by adding the jar files from dist-> lib folder.
 
 
 # For importing the database :
-The database is created under MySQL 8.0. If using MySQL 8.0 or higher, simply extract the database by using MySQl Workbench. 
+The database is created under MySQL 8.0. If you are using MySQL 8.0 or higher, simply extract the database by using MySQl Workbench. 
 Name the new schema as "plantshop".
 
 OR
