@@ -1,6 +1,7 @@
 Use [NetBeans 8.x](https://netbeans-ide.informer.com/8.2/) with [JDK 8u111](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html) preferably.
 # Before running the application :
-Resolve the imports by adding the jar files from dist -> lib folder.
+a) Resolve the imports by adding the jar files from dist -> lib folder.
+b) Resolve the library errors by adding the required libraries(kbuttons, etc.) in the application's library.
 
 
 # For importing the database :
@@ -33,6 +34,3 @@ If thers is a space, rename that file or change the location of the SQL file. Or
 If not, run command prompt with admin privilege.
 
 You can refer [this](https://www.youtube.com/watch?v=sJ64ZiB6PUU).
-
-# After importing the application :
-a) Resolve the library errors by adding the required libraries(kbuttons, etc.) in the application's library.
