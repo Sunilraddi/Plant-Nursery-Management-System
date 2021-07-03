@@ -1,4 +1,4 @@
-Use [NetBeans 8.x)[https://netbeans-ide.informer.com/8.2/] with (JDK 8u111)[https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html] preferably.
+Use [NetBeans 8.x](https://netbeans-ide.informer.com/8.2/) with [JDK 8u111](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html) preferably.
 # Before running the application :
 Resolve the imports by adding the jar files from dist-> lib folder.
 
