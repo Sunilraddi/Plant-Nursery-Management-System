@@ -23,7 +23,7 @@ e) Go to Command Prompt. Write cd and then paste the copied path.
 
 eg. cd C:\Program Files\MySQL\MySQL Server 8.0\bin (The path or the version of the MySql may differ.)
 
-f)Write command ->
+f) Write command ->
 mysql -h 127.0.0.1 -u root -p plantshop< and then paste the sql file's location.
 
 eg: mysql -h 127.0.0.1 -u root -p plantshop<D:\DatabaseFile\Plantshop.sql
