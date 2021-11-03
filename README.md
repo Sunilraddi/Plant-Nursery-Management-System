@@ -30,8 +30,8 @@ eg: mysql -h 127.0.0.1 -u root -p plantshop<D:\DatabaseFile\Plantshop.sql
 
 Here, "root" is the username and it may differ. Password can be "root" or user-side MySQL password.
 
-If the prompt shows "The system cannot find the file specified.", check out if there is a space character in your filename. 
-If thers is a space, rename that file or change the location of the SQL file. Or else look out if you are running the command prompt with admin privilege or not. 
+If the prompt reads "The system cannot find the file specified.", check if there is a space character in your filename. 
+If there's a space, rename that file or change the location of the SQL file. Else, check if you are running the command prompt with admin privilege or not. 
 If not, run command prompt with admin privilege.
 
 You can refer [this](https://www.youtube.com/watch?v=sJ64ZiB6PUU).
